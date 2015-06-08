@@ -15,4 +15,13 @@ namespace Weather
             Console.WriteLine(Convert.ToInt32(Console.ReadLine()));
         }
     }
+
+
+    class Sleep
+    {
+       static void Dream()
+       {
+          Console.WriteLine("Very nice");
+       }
+    }
 }
